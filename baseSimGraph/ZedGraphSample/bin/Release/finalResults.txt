@@ -1,0 +1,15 @@
+total student internet usage time: 95899,2625999999
+total worker internet usage time: 101681,64
+total nonworker internet usage time: 105335,0894
+
+total student delay: 1698,95409999945
+total worker delay: 1316,35899999951
+total nonworker delay: 1456,12149999957
+
+average student internet usage: 958,992625999999
+average worker internet usage: 1016,8164
+average nonworker internet usage: 1053,350894
+
+average student delay: 16,9895409999945
+average worker delay: 13,1635899999951
+average nonworker delay: 14,5612149999957
