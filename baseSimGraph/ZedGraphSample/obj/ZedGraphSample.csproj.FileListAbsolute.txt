@@ -25,3 +25,5 @@ C:\Users\SUUSER\Desktop\baseSimGraph\ZedGraphSample\obj\Release\ZedGraphSample.c
 C:\Users\SUUSER\Desktop\baseSimGraph\ZedGraphSample\bin\Release\ZedGraphSample.exe
 C:\Users\SUUSER\Desktop\baseSimGraph\ZedGraphSample\bin\Release\ZedGraphSample.pdb
 C:\Users\SUUSER\Desktop\baseSimGraph\ZedGraphSample\bin\Release\ZedGraph.dll
+C:\Users\SUUSER\Documents\GitHub\grafik\baseSimGraph\ZedGraphSample\obj\Release\ZedGraphSample.exe
+C:\Users\SUUSER\Documents\GitHub\grafik\baseSimGraph\ZedGraphSample\obj\Release\ZedGraphSample.pdb

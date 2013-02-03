@@ -29,8 +29,8 @@ namespace ZedGraphSample
             public double totalInternetUsageTime;
             public double totalInternetUsageDelay;
         }       
-        client[] clientArray = new client[300];
-        public string folderName = "retake/300/";
+        client[] clientArray = new client[500];
+        public string folderName = "retake/500/";
         int userCount = 0;       
         double totalDelay = 0;
 		public Form1()
@@ -98,7 +98,7 @@ namespace ZedGraphSample
             button2.Visible = false;
 			// Set the titles and axis labels
 			myPane.Title.Text = "";
-			myPane.XAxis.Title.Text = "Time (m?nutes)";
+			myPane.XAxis.Title.Text = "Time (minutes)";
 			myPane.YAxis.Title.Text = "Average Delay (seconds)";
 
             List<packetEntry> srcList = new List<packetEntry>();
